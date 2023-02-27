@@ -1,0 +1,17 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+h1 {
+  background-color: yellowgreen;
+}
+li {
+  background-color: whitesmoke;
+  color: blueviolet;
+  font-family: "Times New Roman", Times, serif;
+  style
+}
+button {
+  padding-left: 5rem;
+  padding-top: 1.5rem;
+}
